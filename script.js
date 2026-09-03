@@ -147,3 +147,5 @@ addNewTaskButton.addEventListener('click', () => {
     document.querySelector('#task-description-input').value = '';
 
 })
+
+// Meow 
